@@ -1,4 +1,10 @@
-# 20春_Python数据分析基础_week02
+## 课程
+* 课程全称: 20春_Python数据分析基础
+* 课程简称: 20春_pandas
+* 课程简介: 看Jupyter笔记本帶著我們使用Python数据分析，走向云端、社会数据科学及人工智能前沿。
+* e.nfu.edu.cn: [课程入口 id=64](http://e.nfu.edu.cn/course/view.php?id=64) -- [编辑课程设定
+](http://e.nfu.edu.cn/course/edit.php?id=64)
+* 相關文件夾: [社会数据科学及人工智能前沿 id=1288](http://e.nfu.edu.cn/mod/folder/view.php?id=1288)
 
 #### 介绍
 {**以下是码云平台说明，您可以替换此简介**
